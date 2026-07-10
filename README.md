@@ -1,5 +1,5 @@
-# About Me:
-Hi, I'm Mehedi Hasan Emon<br><br>I enjoy turning ideas into working web apps, especially ones that solve real problems people actually face. Always picking up new tools and technologies as I go. Building things for the web that matter — that's what drives me. Real problems, practical solutions, and a constant hunger to learn.
+# Hi, I'm Mehedi Hasan Emon:
+<br><br>I enjoy turning ideas into working web apps, especially ones that solve real problems people actually face. Always picking up new tools and technologies as I go. Building things for the web that matter — that's what drives me. Real problems, practical solutions, and a constant hunger to learn.
 
 
 
